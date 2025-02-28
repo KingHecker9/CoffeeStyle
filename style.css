@@ -107,6 +107,10 @@ video{
     margin: 60px;
 }
 @media (max-width: 768px){
+    #read{
+        margin: 0;
+        text-align: center;
+    }
     .bcm{
         width: auto;
     }
@@ -339,11 +343,11 @@ video{
     }
     .af button{
         padding: 20px 30px;
-        width: 50%;
+        width: 80%;
         
     }
     .af input{
-        width: 50%;
+        width: 80%;
         padding: 10px 15px1;
     }
 }
